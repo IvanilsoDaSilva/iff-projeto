@@ -1,3 +1,24 @@
+<!-- Caracter Icon -->
+
+──────▄▀▄─────▄▀▄  
+─────▄█░░▀▀▀▀▀░░█▄  
+─▄▄──█░░░░░░░░░░░█──▄▄  
+█▄▄█─█░░▀░░┬░░▀░░█─█▄▄█
+
+<!-- Animated img -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+
+<!-- Animated text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&width=290&lines=PESQUISA;BIBLIOGRAFICA"/>
+</div>
+
+<h2 align="right">OBJETIVO</h2>
+
+Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recursos Digitais para o ensino a ciência.
+
+<h2 align="right">RESULTADO</h2>
+
 <table>
   <thead>
     <tr>
@@ -25,3 +46,6 @@
     </tr>
   </tbody>
 </table>
+
+<!-- Animated img -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
