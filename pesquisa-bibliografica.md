@@ -22,8 +22,8 @@ Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recurso
 <table>
   <thead>
     <tr>
-      <th scope="col">Artigo</th>
-      <th scope="col">Autores</th>
+      <th scope="col">Título</th>
+      <th scope="col">Autores/Ano</th>
       <th scope="col">Tipo</th>
       <th scope="col">Objetivo</th>
       <th scope="col">Publicação</th>
@@ -33,7 +33,7 @@ Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recurso
   <tbody>
     <tr>
       <td>Ciência em Jogo: criação coletiva de RPG sobre mulheres na Ciência</td>
-      <td>Simone G Ribeiro, Cynthia M Dias, Flávia G Carvalho, Flávia C Ribeiro, Cristiane NB Percini, Hilda da S Gomes, Fernanda de O Bottino, Olga ES Dick, Danielle C do Nascimento, Marcelo S Vasconcellos</td>
+      <td>Simone G Ribeiro, Cynthia M Dias, Flávia G Carvalho, Flávia C Ribeiro, Cristiane NB Percini, Hilda da S Gomes, Fernanda de O Bottino, Olga ES Dick, Danielle C do Nascimento, Marcelo S Vasconcellos (2022)</td>
       <td></td>
       <td>A partir da demanda por estratégias para fomentar o acesso e permanência de meninas e mulheres nas ciências, o presente artigo relata a experiência desenvolvida até o momento no projeto “Ciência em Jogo: intercâmbio de vivências na criação de jogo narrativo sobre mulheres e meninas na ciência”. A metodologia está fundamentada na concepção de educação emancipatória de Freire e se realiza na modalidade não-formal, com estudantes dos territórios em que se encontra a Fundação Oswaldo Cruz. As etapas envolveram a experimentação de RPG, a discussão sobre ciência e saúde e a criação, pelas jovens, da ambientação inicial e de personagens baseadas nas vivências de mulheres cientistas. Pretende-se aplicar o RPG em contextos educacionais e espaços museais, a fim de contribuir para a equidade de gênero na ciência.</td>
       <td align="center"><a href="https://sol.sbc.org.br/index.php/sbgames_estendido/article/view/23754">Link<a></td>
@@ -47,21 +47,21 @@ Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recurso
     </tr>
     <tr>
       <td>Promoção do interesse pela ciência por meio do uso da realidade virtual na demonstração de um experimento científico</td>
-      <td>Jorge Eduardo Mansur, Ana Paula Legey, Antonio Carlos Mol, Andre Cotelli, Paulo Carvalho</td>
+      <td>Jorge Eduardo Mansur, Ana Paula Legey, Antonio Carlos Mol, Andre Cotelli, Paulo Carvalho (2022)</td>
       <td></td>
       <td>A ciência possui grande relevância para a evolução da sociedade. No Brasil, vários tópicos científicos permeiam a educação básica, tanto em nível fundamental quanto médio e um dos grandes desafios de aprendizagem são os conteúdos da disciplina de Física. Estudos apontam que apenas modelos tradicionais, que na maioria das vezes são teóricos em ambiente formal, não são suficientes para motivar os estudantes. Sendo assim, a metodologia proposta por esta pesquisa abarca uma sequência didática envolvendo etapas introdutórias, práticas e de avaliação, proporcionadas por meio da realidade virtual ao observar de maneira lúdica um grande marco científico, com o objetivo de promover o interesse pela ciência. A realidade virtual consiste na utilização de elementos que são capazes de proporcionar sensações de imersão, interação e navegação, melhorando o desempenho dos estudantes no foco e interesse por conteúdos considerados complexos. Os resultados indicam que a abordagem experimental, potencializou o interesse dos estudantes pela ciência e contribuiu para a aprendizagem de um tema científico, reforçando a importância da utilização de recursos digitais em ambientes formais e não formais de ensino.</td>
       <td align="center"><a href="https://recite.unicarioca.edu.br/rccte/index.php/rccte/article/view/235">Link<a></td>
     </tr>
     <tr>
       <td>Gamificação no ensino de Física aplicada no Ensino Fundamental II</td>
-      <td>Ferreira Júnior</td>
+      <td>Ferreira Júnior (2022)</td>
       <td>Trabalho de Conclusão de Curso - Graduação</td>
       <td>Este trabalho de ensino tem por objetivo auxiliar o aluno nos conceitos fundamentais de Física no ensino fundamental II com o tema Terra e Universo embasado na BNCC e voltado para o 6º ano utilizando gamificação em Física e simuladores de Física. Objetivando o raciocínio e a compreensão do aluno de ler, interpretar e definir conceitos de Física baseados nas aulas ministradas no decorrer do projeto ensino de Física na escola. Esse projeto teve como base fundamental a gamificação que consiste em colocar o professor em um papel ativo na elaboração de atividades e tem por objetivo explorar os aspectos didáticos relevantes ao processo de ensino que possibilita ao professor utilizar várias possibilidades de aprendizagem, pois a gamificação junto com a os simuladores de Física chama a atenção dos alunos para que possam aprender brincando.</td>
       <td align="center"><a href="https://bdm.ufpa.br/handle/prefix/4873">Link<a></td>
     </tr>
     <tr>
       <td>Baldur - Software para a gamicação do ensino com estudo de caso voltado para a física</td>
-      <td>Izabella Ribeiro Pinto, Elena Konstantinova, José Honório Glanzmann</td>
+      <td>Izabella Ribeiro Pinto, Elena Konstantinova, José Honório Glanzmann (2022)</td>
       <td>Trabalho de Conclusão de Curso - Graduação</td>
       <td>Nesse presente trabalho é abordada a proposta do Baldur, software para a gamificação do ensino com o estudo de caso voltado para a disciplina de Física. O foco da proposta é apresentar um sistema com diversas características de gamificação a fim de tornar o processo de aprendizado algo mais prazeroso para aqueles que fizerem uso da ferramenta, através do uso de um sistema de níveis, mídias e tutoriais a fim de otimizar o processo, tudo dentro de uma abordagem web com uso das linguagens React para Front End e Java com Framework Spring para o Back End.</td>
       <td align="center"><a href="http://periodicos.jf.ifsudestemg.edu.br/revistabsi/article/view/553">Link<a></td>
