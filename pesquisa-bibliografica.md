@@ -13,11 +13,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&width=290&lines=PESQUISA;BIBLIOGRAFICA"/>
 </div>
 
-<h2 align="right">OBJETIVO</h2>
+<h2 align="right">1.1. OBJETIVO 📝</h2>
 
-Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recursos Digitais para o ensino a ciência.
+Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recursos Digitais para o ensino a ciência durante o periodo de 2022.
 
-<h2 align="right">RESULTADO</h2>
+<h2 align="right">1.2. RESULTADO 📈</h2>
 
 <table>
   <thead>
