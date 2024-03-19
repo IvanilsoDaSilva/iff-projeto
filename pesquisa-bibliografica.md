@@ -59,6 +59,13 @@ Obter pesquisas e projetos relevantes já existentes na área de Jogos e Recurso
       <td>Este trabalho de ensino tem por objetivo auxiliar o aluno nos conceitos fundamentais de Física no ensino fundamental II com o tema Terra e Universo embasado na BNCC e voltado para o 6º ano utilizando gamificação em Física e simuladores de Física. Objetivando o raciocínio e a compreensão do aluno de ler, interpretar e definir conceitos de Física baseados nas aulas ministradas no decorrer do projeto ensino de Física na escola. Esse projeto teve como base fundamental a gamificação que consiste em colocar o professor em um papel ativo na elaboração de atividades e tem por objetivo explorar os aspectos didáticos relevantes ao processo de ensino que possibilita ao professor utilizar várias possibilidades de aprendizagem, pois a gamificação junto com a os simuladores de Física chama a atenção dos alunos para que possam aprender brincando.</td>
       <td align="center"><a href="https://bdm.ufpa.br/handle/prefix/4873">Link<a></td>
     </tr>
+    <tr>
+      <td>Baldur - Software para a gamicação do ensino com estudo de caso voltado para a física</td>
+      <td>Izabella Ribeiro Pinto, Elena Konstantinova, José Honório Glanzmann</td>
+      <td>Trabalho de Conclusão de Curso - Graduação</td>
+      <td>Nesse presente trabalho é abordada a proposta do Baldur, software para a gamificação do ensino com o estudo de caso voltado para a disciplina de Física. O foco da proposta é apresentar um sistema com diversas características de gamificação a fim de tornar o processo de aprendizado algo mais prazeroso para aqueles que fizerem uso da ferramenta, através do uso de um sistema de níveis, mídias e tutoriais a fim de otimizar o processo, tudo dentro de uma abordagem web com uso das linguagens React para Front End e Java com Framework Spring para o Back End.</td>
+      <td align="center"><a href="http://periodicos.jf.ifsudestemg.edu.br/revistabsi/article/view/553">Link<a></td>
+    </tr>
   </tbody>
 </table>
 
